@@ -16,5 +16,12 @@ It's useful for system administrators to detect resource-heavy processes and opt
 
 # Python Script
 Using PyCharm created a script that monitors system processes and logs high CPU and memory usage.
+At the bottom of this screenshot, you can see the logs generated, indicating high resource usage for "pycharm64.exe" with the (PID) process ID 26800.
 
-<img width="1000" alt="image" src=https://imgur.com/9dWicBC>
+<img width="1000" alt="image" src="https://i.imgur.com/9dWicBC.png">
+
+---
+
+# Task Manager
+The same information regarding high CPU and memory usage regarding "pycharm64.exe" process log is reflected in Task Manager. Under the "Processes" header located in the left pane, under "Name", PyCharm Community Edition application is at 100% CPU usage and 93% memory usage same information displayed after running script. The (PID) process ID 26800 is in the last column.
+<img width="1000" alt="image" src="https://i.imgur.com/Xz6shta.png">
