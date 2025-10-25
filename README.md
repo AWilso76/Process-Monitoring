@@ -38,7 +38,7 @@ This project highlights:
     ```bash
    python process_monitor.py
 
-3. Review alerts in the terminal or the generated log file.
+3. Review alerts in the terminal or the generated log file `process_monitor.log`.
 
 
 # Example Log Output
