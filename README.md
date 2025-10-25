@@ -27,7 +27,8 @@ This project highlights:
 
 # Prerequisites
 
-Install psutil
+- Python 3.x  
+- psutil library (`pip install psutil`)  
 
 # Usage
 
