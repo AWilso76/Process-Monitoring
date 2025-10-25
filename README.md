@@ -29,7 +29,7 @@ This project highlights:
 
 Install psutil
 
-## Usage
+# Usage
 
 1. Clone the repo
 
@@ -40,14 +40,14 @@ python process_monitor.py
 3. Review alerts in the terminal or the generated log file.
 
 
-## Example Log Output
+# Example Log Output
 
 [2025-10-25 15:22:44] ALERT: chrome.exe - CPU: 85% - Memory: 420 MB
 
 [2025-10-25 15:24:01] ALERT: msedge.exe - CPU: 78% - Memory: 380 MB
 
 
-## Future Enhancements
+# Future Enhancements
 
 - Add email or Teams alert notifications
 
@@ -56,7 +56,7 @@ python process_monitor.py
 - Integrate with enterprise monitoring tools (e.g., Splunk, Sentinel, SolarWinds)
 
 
-## Screenshots
+# Screenshots
 
 ---
 ## Python Script
