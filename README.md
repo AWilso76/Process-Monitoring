@@ -3,8 +3,7 @@
 
 ## Overview
 This script monitors running system processes and flags any that exceed defined CPU or memory thresholds.  
-It’s designed to demonstrate proactive **system monitoring and troubleshooting** — key functions for IT Support and Applications Analyst roles.
-
+It’s designed to demonstrate proactive **system monitoring and troubleshooting** 
 
 ## Features
 
