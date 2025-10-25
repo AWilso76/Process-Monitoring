@@ -28,8 +28,8 @@ This project highlights:
 
 
 ## Prerequisites
-```bash
-pip install psutil
+
+Install psutil
 
 
 ## Usage
