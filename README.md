@@ -33,7 +33,9 @@ Install psutil
 
 1. Clone the repo
 
-2. Run the script: python process_monitor.py
+2. Run the script:
+    ```bash
+   python process_monitor.py
 
 3. Review alerts in the terminal or the generated log file.
 
